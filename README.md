@@ -4,7 +4,7 @@
 
 ```
 rm -f uploader.sh* && \
-wget https://raw.githubusercontent.com/kindlefere/KindleEar-Uploader/master/uploader.sh && \
+wget https://raw.githubusercontent.com/1782529842/KindleEar-Uploader/master/uploader.sh && \
 chmod +x uploader.sh && \
 ./uploader.sh
 ```
@@ -14,5 +14,3 @@ KindleEar 项目地址：https://github.com/cdhigh/KindleEar
 
 ---
 
-Kindle 伴侣 - 为静心阅读而生  
-http://kindlefere.com
